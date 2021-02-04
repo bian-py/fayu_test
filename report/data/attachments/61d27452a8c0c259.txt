@@ -1,0 +1,18 @@
+[32mINFO    [0m admin:test02_xx.py:56 点击进入字母学习页面
+[32mINFO    [0m admin:base.py:28 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[32mINFO    [0m admin:test02_xx.py:60 点击蒙屏菜单按钮
+[32mINFO    [0m admin:base.py:28 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[32mINFO    [0m admin:test02_xx.py:71 正在进行断言，判断字母学习中是否存在字符C
+[32mINFO    [0m admin:base.py:94 正在调用从左向右滑动方法
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[32mINFO    [0m admin:base.py:120 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[32mINFO    [0m admin:base.py:124 滑到最后一个屏幕，未找到元素
+[31m[1mERROR   [0m admin:test02_xx.py:75 断言失败
+[32mINFO    [0m admin:test02_xx.py:78 返回学习主页面
+[32mINFO    [0m admin:base.py:28 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[32mINFO    [0m admin:base.py:28 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')

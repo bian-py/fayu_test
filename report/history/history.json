@@ -1,0 +1,158 @@
+{
+  "8b75885e6558b2231853f2455107577d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e49c440a6df40211",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>>()\n +    where <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>> = <page.page_xx.PageXx object at 0x00000202D23E45C0>.pagexx_find_demo\n +      where <page.page_xx.PageXx object at 0x00000202D23E45C0> = <script.test02_xx.TestXx object at 0x00000202D25933C8>.xx",
+      "time" : {
+        "start" : 1612406275323,
+        "stop" : 1612406321140,
+        "duration" : 45817
+      }
+    } ]
+  },
+  "ccf4ab06700545f0021aee0958ecf596" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a020d8b9c3088025",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = <bound method PageXx.pagexx_find_C of <page.page_xx.PageXx object at 0x00000202D23E45C0>>()\n +    where <bound method PageXx.pagexx_find_C of <page.page_xx.PageXx object at 0x00000202D23E45C0>> = <page.page_xx.PageXx object at 0x00000202D23E45C0>.pagexx_find_C\n +      where <page.page_xx.PageXx object at 0x00000202D23E45C0> = <script.test02_xx.TestXx object at 0x00000202D2572A90>.xx",
+      "time" : {
+        "start" : 1612406262711,
+        "stop" : 1612406275222,
+        "duration" : 12511
+      }
+    } ]
+  },
+  "bd3188cd1e6dfada864544fdd8afbc97" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e27b54687f02fb41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612406350702,
+        "stop" : 1612406354541,
+        "duration" : 3839
+      }
+    } ]
+  },
+  "01c56d332afdf43e2440b186a1c2c128" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b3f826c17bb7eabb",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: demo设置跳过",
+      "time" : {
+        "start" : 1612406364814,
+        "stop" : 1612406364814,
+        "duration" : 0
+      }
+    } ]
+  },
+  "db7977132e1a3378f5eb58e4195ace59" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8cb561373ffb1ac1",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1612406354549,
+        "stop" : 1612406364782,
+        "duration" : 10233
+      }
+    } ]
+  },
+  "87ad9bfe68238ae95cb20d66c9c9f13c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "75ef3d59f1679e75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612406232185,
+        "stop" : 1612406262703,
+        "duration" : 30518
+      }
+    } ]
+  },
+  "834447003091d4ca2dbb9edf2ed35fc3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b758ce28db33089",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612406226403,
+        "stop" : 1612406232178,
+        "duration" : 5775
+      }
+    } ]
+  },
+  "570b0fb15c3efb18bc8d95f706331a11" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8fa7eca3ce20d88f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612406178767,
+        "stop" : 1612406187544,
+        "duration" : 8777
+      }
+    } ]
+  }
+}

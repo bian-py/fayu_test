@@ -1,0 +1,193 @@
+{
+  "uid" : "e49c440a6df40211",
+  "name" : "test04_zmxx_error_demo",
+  "fullName" : "script.test02_xx.TestXx#test04_zmxx_error_demo",
+  "historyId" : "8b75885e6558b2231853f2455107577d",
+  "time" : {
+    "start" : 1612406275323,
+    "stop" : 1612406321140,
+    "duration" : 45817
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert False\n +  where False = <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>>()\n +    where <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>> = <page.page_xx.PageXx object at 0x00000202D23E45C0>.pagexx_find_demo\n +      where <page.page_xx.PageXx object at 0x00000202D23E45C0> = <script.test02_xx.TestXx object at 0x00000202D25933C8>.xx",
+  "statusTrace" : "self = <script.test02_xx.TestXx object at 0x00000202D25933C8>\n\n    @allure.story(\"测试字母学习功能是否完整——错误情况\")\n    def test04_zmxx_error_demo(self):\n        log.info(\"点击进入字母学习页面\")\n        with allure.step(\"点击进入学习页面\"):\n            pass\n        self.xx.pagexx_click_zmxx()\n        with allure.step(\"开始进行查找操作\"):\n            allure.attach(\"找到字母%%%\", \"结果返回TRUE,断言成功\")\n            allure.attach(\"未找到字母%%%\", \"滑动继续寻找，未找到返回FALSE\")\n        with allure.step(\"开始进行断言\"):\n            allure.attach(\"判断返回值为TRUE\", \"断言成功\")\n            allure.attach(\"判断返回值为FALSE\", \"断言失败\")\n            try:\n                log.info(\"正在进行断言，判断字母学习中是否存在字符%%%%\")\n>               assert self.xx.pagexx_find_demo()\nE               assert False\nE                +  where False = <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>>()\nE                +    where <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>> = <page.page_xx.PageXx object at 0x00000202D23E45C0>.pagexx_find_demo\nE                +      where <page.page_xx.PageXx object at 0x00000202D23E45C0> = <script.test02_xx.TestXx object at 0x00000202D25933C8>.xx\n\nscript\\test02_xx.py:95: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestXx",
+    "time" : {
+      "start" : 1612406191688,
+      "stop" : 1612406226402,
+      "duration" : 34714
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert False\n +  where False = <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>>()\n +    where <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>> = <page.page_xx.PageXx object at 0x00000202D23E45C0>.pagexx_find_demo\n +      where <page.page_xx.PageXx object at 0x00000202D23E45C0> = <script.test02_xx.TestXx object at 0x00000202D25933C8>.xx",
+    "statusTrace" : "self = <script.test02_xx.TestXx object at 0x00000202D25933C8>\n\n    @allure.story(\"测试字母学习功能是否完整——错误情况\")\n    def test04_zmxx_error_demo(self):\n        log.info(\"点击进入字母学习页面\")\n        with allure.step(\"点击进入学习页面\"):\n            pass\n        self.xx.pagexx_click_zmxx()\n        with allure.step(\"开始进行查找操作\"):\n            allure.attach(\"找到字母%%%\", \"结果返回TRUE,断言成功\")\n            allure.attach(\"未找到字母%%%\", \"滑动继续寻找，未找到返回FALSE\")\n        with allure.step(\"开始进行断言\"):\n            allure.attach(\"判断返回值为TRUE\", \"断言成功\")\n            allure.attach(\"判断返回值为FALSE\", \"断言失败\")\n            try:\n                log.info(\"正在进行断言，判断字母学习中是否存在字符%%%%\")\n>               assert self.xx.pagexx_find_demo()\nE               assert False\nE                +  where False = <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>>()\nE                +    where <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>> = <page.page_xx.PageXx object at 0x00000202D23E45C0>.pagexx_find_demo\nE                +      where <page.page_xx.PageXx object at 0x00000202D23E45C0> = <script.test02_xx.TestXx object at 0x00000202D25933C8>.xx\n\nscript\\test02_xx.py:95: AssertionError",
+    "steps" : [ {
+      "name" : "点击进入学习页面",
+      "time" : {
+        "start" : 1612406275324,
+        "stop" : 1612406275324,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "开始进行查找操作",
+      "time" : {
+        "start" : 1612406278503,
+        "stop" : 1612406278506,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2adc9582f459ed32",
+        "name" : "结果返回TRUE,断言成功",
+        "source" : "2adc9582f459ed32.attach",
+        "type" : "text/plain",
+        "size" : 15
+      }, {
+        "uid" : "b578d46179f34d8b",
+        "name" : "滑动继续寻找，未找到返回FALSE",
+        "source" : "b578d46179f34d8b.attach",
+        "type" : "text/plain",
+        "size" : 18
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "开始进行断言",
+      "time" : {
+        "start" : 1612406278507,
+        "stop" : 1612406321139,
+        "duration" : 42632
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError: assert False\n +  where False = <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>>()\n +    where <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>> = <page.page_xx.PageXx object at 0x00000202D23E45C0>.pagexx_find_demo\n +      where <page.page_xx.PageXx object at 0x00000202D23E45C0> = <script.test02_xx.TestXx object at 0x00000202D25933C8>.xx\n",
+      "statusTrace" : "  File \"C:\\Users\\Bill Bian\\Desktop\\fayu\\script\\test02_xx.py\", line 95, in test04_zmxx_error_demo\n    assert self.xx.pagexx_find_demo()\n",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a4f95d0f1f9345b4",
+        "name" : "断言成功",
+        "source" : "a4f95d0f1f9345b4.attach",
+        "type" : "text/plain",
+        "size" : 22
+      }, {
+        "uid" : "cdc701059528b78b",
+        "name" : "断言失败",
+        "source" : "cdc701059528b78b.attach",
+        "type" : "text/plain",
+        "size" : 23
+      }, {
+        "uid" : "f5222164fe4e3e0",
+        "name" : "这里是错误原因，截图名字:test02_xx-2021_02_04 10_38_39.png",
+        "source" : "f5222164fe4e3e0.png",
+        "type" : "image/png",
+        "size" : 81092
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 3
+    } ],
+    "attachments" : [ {
+      "uid" : "a666e7a7f0edd73f",
+      "name" : "log",
+      "source" : "a666e7a7f0edd73f.txt",
+      "type" : "text/plain",
+      "size" : 3598
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 6
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestXx::0",
+    "time" : {
+      "start" : 1612406321167,
+      "stop" : 1612406325407,
+      "duration" : 4240
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "学习页面业务功能测试"
+  }, {
+    "name" : "story",
+    "value" : "测试字母学习功能是否完整——错误情况"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test02_xx"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestXx"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NBKAC8C"
+  }, {
+    "name" : "thread",
+    "value" : "12828-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test02_xx"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e49c440a6df40211.json",
+  "parameterValues" : [ ]
+}

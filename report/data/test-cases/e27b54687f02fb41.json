@@ -1,0 +1,108 @@
+{
+  "uid" : "e27b54687f02fb41",
+  "name" : "test01_glsh",
+  "fullName" : "script.test03_glsx.TestGlsx#test01_glsh",
+  "historyId" : "bd3188cd1e6dfada864544fdd8afbc97",
+  "time" : {
+    "start" : 1612406350702,
+    "stop" : 1612406354541,
+    "duration" : 3839
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestGlsx",
+    "time" : {
+      "start" : 1612406325416,
+      "stop" : 1612406350701,
+      "duration" : 25285
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2c106a886041443b",
+      "name" : "log",
+      "source" : "2c106a886041443b.txt",
+      "type" : "text/plain",
+      "size" : 1153
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestGlsx::0",
+    "time" : {
+      "start" : 1612406364817,
+      "stop" : 1612406369083,
+      "duration" : 4266
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试跟老师学页面显示"
+  }, {
+    "name" : "feature",
+    "value" : "跟老师学页面业务功能测试"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test03_glsx"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGlsx"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NBKAC8C"
+  }, {
+    "name" : "thread",
+    "value" : "12828-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test03_glsx"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e27b54687f02fb41.json",
+  "parameterValues" : [ ]
+}

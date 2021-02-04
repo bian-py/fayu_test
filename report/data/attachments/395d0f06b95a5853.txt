@@ -1,0 +1,2 @@
+[32mINFO    [0m admin:test03_glsx.py:33 点击跟老师学页面——定位元素故障
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')

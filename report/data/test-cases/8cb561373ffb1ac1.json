@@ -1,0 +1,116 @@
+{
+  "uid" : "8cb561373ffb1ac1",
+  "name" : "test02_glsh",
+  "fullName" : "script.test03_glsx.TestGlsx#test02_glsh",
+  "historyId" : "db7977132e1a3378f5eb58e4195ace59",
+  "time" : {
+    "start" : 1612406354549,
+    "stop" : 1612406364782,
+    "duration" : 10233
+  },
+  "status" : "broken",
+  "statusMessage" : "selenium.common.exceptions.TimeoutException: Message:",
+  "statusTrace" : "self = <script.test03_glsx.TestGlsx object at 0x00000202D25E9F98>\n\n    @allure.story(\"测试跟老师学页面显示——故障情况\")\n    def test02_glsh(self):\n        log.info(\"点击跟老师学页面——定位元素故障\")\n>       self.glsx.base_find_element(page.approve)\n\nscript\\test03_glsx.py:34: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \nbase\\base.py:25: in base_find_element\n    .until(lambda x: x.find_element(*loc))\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <selenium.webdriver.support.wait.WebDriverWait (session=\"603869f1-60ae-4c47-9259-2185795cf880\")>\nmethod = <function Base.base_find_element.<locals>.<lambda> at 0x00000202D16411E0>, message = ''\n\n    def until(self, method, message=''):\n        \"\"\"Calls the method provided with the driver as an argument until the \\\n        return value is not False.\"\"\"\n        screen = None\n        stacktrace = None\n    \n        end_time = time.time() + self._timeout\n        while True:\n            try:\n                value = method(self._driver)\n                if value:\n                    return value\n            except self._ignored_exceptions as exc:\n                screen = getattr(exc, 'screen', None)\n                stacktrace = getattr(exc, 'stacktrace', None)\n            time.sleep(self._poll)\n            if time.time() > end_time:\n                break\n>       raise TimeoutException(message, screen, stacktrace)\nE       selenium.common.exceptions.TimeoutException: Message:\n\n..\\..\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\selenium\\webdriver\\support\\wait.py:80: TimeoutException",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestGlsx",
+    "time" : {
+      "start" : 1612406325416,
+      "stop" : 1612406350701,
+      "duration" : 25285
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "selenium.common.exceptions.TimeoutException: Message:",
+    "statusTrace" : "self = <script.test03_glsx.TestGlsx object at 0x00000202D25E9F98>\n\n    @allure.story(\"测试跟老师学页面显示——故障情况\")\n    def test02_glsh(self):\n        log.info(\"点击跟老师学页面——定位元素故障\")\n>       self.glsx.base_find_element(page.approve)\n\nscript\\test03_glsx.py:34: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \nbase\\base.py:25: in base_find_element\n    .until(lambda x: x.find_element(*loc))\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <selenium.webdriver.support.wait.WebDriverWait (session=\"603869f1-60ae-4c47-9259-2185795cf880\")>\nmethod = <function Base.base_find_element.<locals>.<lambda> at 0x00000202D16411E0>, message = ''\n\n    def until(self, method, message=''):\n        \"\"\"Calls the method provided with the driver as an argument until the \\\n        return value is not False.\"\"\"\n        screen = None\n        stacktrace = None\n    \n        end_time = time.time() + self._timeout\n        while True:\n            try:\n                value = method(self._driver)\n                if value:\n                    return value\n            except self._ignored_exceptions as exc:\n                screen = getattr(exc, 'screen', None)\n                stacktrace = getattr(exc, 'stacktrace', None)\n            time.sleep(self._poll)\n            if time.time() > end_time:\n                break\n>       raise TimeoutException(message, screen, stacktrace)\nE       selenium.common.exceptions.TimeoutException: Message:\n\n..\\..\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\selenium\\webdriver\\support\\wait.py:80: TimeoutException",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "395d0f06b95a5853",
+      "name" : "log",
+      "source" : "395d0f06b95a5853.txt",
+      "type" : "text/plain",
+      "size" : 196
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestGlsx::0",
+    "time" : {
+      "start" : 1612406364817,
+      "stop" : 1612406369083,
+      "duration" : 4266
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试跟老师学页面显示——故障情况"
+  }, {
+    "name" : "feature",
+    "value" : "跟老师学页面业务功能测试"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test03_glsx"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestGlsx"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NBKAC8C"
+  }, {
+    "name" : "thread",
+    "value" : "12828-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test03_glsx"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8cb561373ffb1ac1.json",
+  "parameterValues" : [ ]
+}

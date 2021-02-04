@@ -1,0 +1,149 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "我的页面业务功能测试",
+    "children" : [ {
+      "name" : "测试登录业务功能",
+      "children" : [ {
+        "name" : "test01_login",
+        "uid" : "8fa7eca3ce20d88f",
+        "parentUid" : "bda8d936f8e5011d84ae40ad446f1f3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612406178767,
+          "stop" : 1612406187544,
+          "duration" : 8777
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bda8d936f8e5011d84ae40ad446f1f3d"
+    } ],
+    "uid" : "4b83e95d04067258cd341e9b0355a29e"
+  }, {
+    "name" : "学习页面业务功能测试",
+    "children" : [ {
+      "name" : "测试字母表显示功能",
+      "children" : [ {
+        "name" : "test01_zimubiao",
+        "uid" : "1b758ce28db33089",
+        "parentUid" : "f0fb857a15a15d70410aa8f112f84e73",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612406226403,
+          "stop" : 1612406232178,
+          "duration" : 5775
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f0fb857a15a15d70410aa8f112f84e73"
+    }, {
+      "name" : "测试视频播放/暂停功能",
+      "children" : [ {
+        "name" : "test02_shipin",
+        "uid" : "75ef3d59f1679e75",
+        "parentUid" : "9e8261784d8ba16fb1a6340b6c5719e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612406232185,
+          "stop" : 1612406262703,
+          "duration" : 30518
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9e8261784d8ba16fb1a6340b6c5719e8"
+    }, {
+      "name" : "测试字母学习功能是否完整",
+      "children" : [ {
+        "name" : "test03_zmxx",
+        "uid" : "a020d8b9c3088025",
+        "parentUid" : "a9741055b88e76e58c1da8f86ab87b2d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612406262711,
+          "stop" : 1612406275222,
+          "duration" : 12511
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a9741055b88e76e58c1da8f86ab87b2d"
+    }, {
+      "name" : "测试字母学习功能是否完整——错误情况",
+      "children" : [ {
+        "name" : "test04_zmxx_error_demo",
+        "uid" : "e49c440a6df40211",
+        "parentUid" : "be9553af6499ace0f3cb7f4e3d18d6a2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612406275323,
+          "stop" : 1612406321140,
+          "duration" : 45817
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "be9553af6499ace0f3cb7f4e3d18d6a2"
+    } ],
+    "uid" : "9eb9680bb80177d8c1c8361e4a1a985b"
+  }, {
+    "name" : "跟老师学页面业务功能测试",
+    "children" : [ {
+      "name" : "测试跟老师学页面显示",
+      "children" : [ {
+        "name" : "test01_glsh",
+        "uid" : "e27b54687f02fb41",
+        "parentUid" : "c289bebb8c852c43f7382fb8d76ae9b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612406350702,
+          "stop" : 1612406354541,
+          "duration" : 3839
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test03_glsh",
+        "uid" : "b3f826c17bb7eabb",
+        "parentUid" : "c289bebb8c852c43f7382fb8d76ae9b1",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1612406364814,
+          "stop" : 1612406364814,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c289bebb8c852c43f7382fb8d76ae9b1"
+    }, {
+      "name" : "测试跟老师学页面显示——故障情况",
+      "children" : [ {
+        "name" : "test02_glsh",
+        "uid" : "8cb561373ffb1ac1",
+        "parentUid" : "dd357099cf0c1e5ae8557ae9e4e034f7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1612406354549,
+          "stop" : 1612406364782,
+          "duration" : 10233
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dd357099cf0c1e5ae8557ae9e4e034f7"
+    } ],
+    "uid" : "3be3c9bfb8d89c68b75daaa96a0c381e"
+  } ]
+}

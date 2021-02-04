@@ -1,0 +1,33 @@
+[32mINFO    [0m admin:test02_xx.py:83 点击进入字母学习页面
+[32mINFO    [0m admin:base.py:28 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[32mINFO    [0m admin:test02_xx.py:94 正在进行断言，判断字母学习中是否存在字符%%%%
+[32mINFO    [0m admin:base.py:94 正在调用从左向右滑动方法
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[32mINFO    [0m admin:base.py:120 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[32mINFO    [0m admin:base.py:120 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[32mINFO    [0m admin:base.py:120 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[32mINFO    [0m admin:base.py:120 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[32mINFO    [0m admin:base.py:120 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[32mINFO    [0m admin:base.py:120 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[32mINFO    [0m admin:base.py:120 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[32mINFO    [0m admin:base.py:120 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[32mINFO    [0m admin:base.py:124 滑到最后一个屏幕，未找到元素
+[31m[1mERROR   [0m admin:test02_xx.py:98 断言失败
+[32mINFO    [0m admin:base.py:76 正在进行截图，路径为C:\Users\Bill Bian\Desktop\fayu\img\test02_xx-2021_02_04 10_38_39.png
+[32mINFO    [0m admin:base.py:87 正在将截图test02_xx-2021_02_04 10_38_39.png写入报告中
+[32mINFO    [0m admin:base.py:89 打开文件
+[32mINFO    [0m admin:test02_xx.py:102 返回学习主页面
+[32mINFO    [0m admin:base.py:28 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[32mINFO    [0m admin:base.py:28 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[32mINFO    [0m admin:get_driver.py:27 关闭驱动对象，并置空

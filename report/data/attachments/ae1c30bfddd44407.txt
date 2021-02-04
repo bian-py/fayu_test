@@ -1,0 +1,15 @@
+[32mINFO    [0m admin:get_driver.py:18 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[32mINFO    [0m admin:base.py:19 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="12277ef0-0923-4354-8b66-5cf956a3cac6")>
+[32mINFO    [0m admin:base.py:28 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[32mINFO    [0m admin:test01_login.py:25 调用登录业务组合方法
+[32mINFO    [0m admin:base.py:28 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[32mINFO    [0m admin:base.py:28 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[32mINFO    [0m admin:base.py:28 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[32mINFO    [0m admin:test01_login.py:28 正在进行断言，判断是否登录成功
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[32mINFO    [0m admin:test01_login.py:30 断言成功
+[32mINFO    [0m admin:get_driver.py:27 关闭驱动对象，并置空

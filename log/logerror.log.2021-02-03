@@ -1,0 +1,12 @@
+2021-02-03 16:15:52,135 ERROR [admin] [test02_xx.py(test04_zmxx_error_demo:83)] - 断言失败
+ ERROR [admin] [test02_xx.py(test04_zmxx_error_demo:83)] - 断言失败 
+ [1;31m2021-02-03 16:56:04,989 ERROR [admin] [test02_xx.py(test04_zmxx_error_demo:83)] - 断言失败 [0m
+[admin] 2021-02-03 21:47:30,783 ERROR [test02_xx.py(test04_zmxx_error_demo:83)] - 断言失败
+[admin] 2021-02-03 22:03:16,000 ERROR [test02_xx.py(test04_zmxx_error_demo:83)] - 断言失败
+[admin] 2021-02-03 22:17:04,623 ERROR [test02_xx.py(test04_zmxx_error_demo:83)] - 断言失败
+[admin] 2021-02-03 22:47:21,798 ERROR [test02_xx.py(test04_zmxx_error_demo:93)] - 断言失败
+[admin] 2021-02-03 22:53:30,979 ERROR [test02_xx.py(test04_zmxx_error_demo:101)] - 断言失败
+[admin] 2021-02-03 23:06:50,763 ERROR [test02_xx.py(test04_zmxx_error_demo:101)] - 断言失败
+[admin] 2021-02-03 23:16:00,849 ERROR [test02_xx.py(test04_zmxx_error_demo:101)] - 断言失败
+[admin] 2021-02-03 23:21:07,077 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-03 23:34:43,374 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败

@@ -1,0 +1,9 @@
+[32mINFO    [0m admin:get_driver.py:18 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[32mINFO    [0m admin:base.py:19 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="603869f1-60ae-4c47-9259-2185795cf880")>
+[32mINFO    [0m admin:base.py:28 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[32mINFO    [0m admin:test03_glsx.py:26 点击跟老师学页面
+[32mINFO    [0m admin:base.py:28 正在点击元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[32mINFO    [0m admin:test03_glsx.py:28 正在进行断言，判断是否成功跳转
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="免费报名"]')

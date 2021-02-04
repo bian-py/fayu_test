@@ -1,0 +1,9 @@
+[admin] 2021-02-04 08:55:09,576 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 08:59:24,705 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 09:03:48,849 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 09:43:58,239 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 09:51:02,061 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 09:58:31,011 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 10:07:59,934 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 10:37:54,395 ERROR [test02_xx.py(test03_zmxx:75)] - 断言失败
+[admin] 2021-02-04 10:38:39,847 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败

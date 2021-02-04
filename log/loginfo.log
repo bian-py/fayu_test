@@ -1,0 +1,1198 @@
+[admin] 2021-02-04 08:42:14,218 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:42:38,262 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="39f327ba-4d94-425a-a27d-678afcd99849")>
+[admin] 2021-02-04 08:42:38,262 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:42:38,262 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:42:40,983 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 08:42:40,983 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:42:40,983 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:42:53,943 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 08:42:57,000 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:43:14,974 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="f89c8908-8a64-4a6f-b8d7-85df38f60fcf")>
+[admin] 2021-02-04 08:43:14,974 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:43:14,974 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:43:17,192 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="f89c8908-8a64-4a6f-b8d7-85df38f60fcf")>
+[admin] 2021-02-04 08:43:17,192 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:43:17,192 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:43:28,990 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:43:28,990 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="f89c8908-8a64-4a6f-b8d7-85df38f60fcf")>
+[admin] 2021-02-04 08:43:28,990 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:43:28,990 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:44:21,072 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:44:43,343 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="4f272104-e157-4e42-913a-2d2ff059ca31")>
+[admin] 2021-02-04 08:44:43,343 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:44:43,343 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:44:45,529 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 08:44:45,529 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:44:45,529 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:44:55,196 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:44:55,196 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:44:56,042 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:44:56,042 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:44:59,337 INFO [test01_login.py(test01_login:28)] - 正在进行断言，判断是否登录成功
+[admin] 2021-02-04 08:44:59,337 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[admin] 2021-02-04 08:45:09,594 INFO [test01_login.py(test01_login:32)] - 断言失败
+[admin] 2021-02-04 08:45:09,719 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 08:45:13,591 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:45:35,358 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="78057eb4-3c0a-4f6d-bffc-d2572a98b82c")>
+[admin] 2021-02-04 08:45:35,358 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:45:35,358 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:45:37,461 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="78057eb4-3c0a-4f6d-bffc-d2572a98b82c")>
+[admin] 2021-02-04 08:45:37,461 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:45:37,461 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:45:44,109 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:45:44,125 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:45:45,324 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:45:45,324 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:45:51,740 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 08:45:51,740 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 08:46:02,236 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:46:02,236 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="78057eb4-3c0a-4f6d-bffc-d2572a98b82c")>
+[admin] 2021-02-04 08:46:02,236 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:46:02,236 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:46:37,783 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:46:59,859 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="3671d78f-ab79-439d-9662-8b4785a02e0b")>
+[admin] 2021-02-04 08:46:59,859 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:46:59,872 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:47:03,156 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 08:47:03,156 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:47:03,156 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:47:13,665 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:47:13,665 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:47:15,170 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:47:15,170 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:47:23,293 INFO [test01_login.py(test01_login:28)] - 正在进行断言，判断是否登录成功
+[admin] 2021-02-04 08:47:23,293 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[admin] 2021-02-04 08:47:26,207 INFO [test01_login.py(test01_login:30)] - 断言成功
+[admin] 2021-02-04 08:47:26,207 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 08:47:29,794 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:47:50,614 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="3b543edb-b027-4115-bb26-b35ca2d87983")>
+[admin] 2021-02-04 08:47:50,614 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:47:50,619 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:47:52,876 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="3b543edb-b027-4115-bb26-b35ca2d87983")>
+[admin] 2021-02-04 08:47:52,892 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:47:52,892 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:48:03,704 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:48:03,704 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:48:04,598 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:48:04,598 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:48:15,214 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:48:15,214 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="3b543edb-b027-4115-bb26-b35ca2d87983")>
+[admin] 2021-02-04 08:48:15,214 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:48:15,214 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:49:39,456 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:50:01,868 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="d9f9f2a8-aa1a-4923-9060-663b4e13bcf7")>
+[admin] 2021-02-04 08:50:01,868 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:50:01,868 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:50:04,054 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 08:50:04,054 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:50:04,070 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:50:16,736 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:50:16,736 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:50:17,631 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:50:17,631 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:50:22,743 INFO [test01_login.py(test01_login:28)] - 正在进行断言，判断是否登录成功
+[admin] 2021-02-04 08:50:22,743 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[admin] 2021-02-04 08:50:32,967 INFO [test01_login.py(test01_login:32)] - 断言失败
+[admin] 2021-02-04 08:50:33,045 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 08:50:35,892 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:50:35,908 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="d9f9f2a8-aa1a-4923-9060-663b4e13bcf7")>
+[admin] 2021-02-04 08:50:35,908 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:50:35,908 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:50:46,486 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:50:46,502 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="d9f9f2a8-aa1a-4923-9060-663b4e13bcf7")>
+[admin] 2021-02-04 08:50:46,502 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:50:46,502 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:52:09,729 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:52:29,886 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="fb07b5c3-01c5-4657-a433-e290b6f7acb7")>
+[admin] 2021-02-04 08:52:29,886 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:52:29,904 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:52:32,044 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 08:52:32,044 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:52:32,044 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:52:43,752 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 08:52:46,810 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:53:04,935 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="ee74caf1-70bd-4283-afd5-64e462a850e7")>
+[admin] 2021-02-04 08:53:04,935 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:53:04,935 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:53:07,102 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="ee74caf1-70bd-4283-afd5-64e462a850e7")>
+[admin] 2021-02-04 08:53:07,102 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:53:07,102 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:53:09,868 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:53:09,868 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:53:10,815 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:53:10,815 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:53:15,310 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 08:53:15,310 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 08:53:17,545 INFO [test02_xx.py(test01_zimubiao:30)] - 进入字母表页
+[admin] 2021-02-04 08:53:19,546 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 08:53:19,547 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 08:53:20,249 INFO [test02_xx.py(test01_zimubiao:32)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 08:53:20,249 INFO [test02_xx.py(test01_zimubiao:34)] - 返回学习主页面
+[admin] 2021-02-04 08:53:20,251 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 08:53:20,252 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 08:53:23,831 INFO [test02_xx.py(test02_shipin:39)] - 进入字母讲解视频，查看视频播放情况
+[admin] 2021-02-04 08:53:25,843 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 08:53:25,843 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 08:53:26,093 INFO [test02_xx.py(test02_shipin:42)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 08:53:28,104 INFO [test02_xx.py(test02_shipin:45)] - 正在调出视频控制菜单，点击暂停按钮
+[admin] 2021-02-04 08:53:28,104 INFO [test02_xx.py(test02_shipin:46)] - 进入字母讲解视频
+[admin] 2021-02-04 08:53:28,104 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:53:28,104 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:53:28,345 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 08:53:38,552 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:53:38,552 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:53:38,630 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 08:53:40,045 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 08:53:40,045 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 08:53:40,142 INFO [test02_xx.py(test02_shipin:48)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 08:53:40,142 INFO [test02_xx.py(test02_shipin:50)] - 返回学习主页面
+[admin] 2021-02-04 08:53:40,142 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:53:40,142 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:53:40,708 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 08:53:50,731 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:53:50,731 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:53:50,809 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 08:53:51,720 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 08:53:51,735 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 08:53:53,820 INFO [test02_xx.py(test03_zmxx:56)] - 点击进入字母学习页面
+[admin] 2021-02-04 08:53:56,832 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 08:53:56,832 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 08:53:57,202 INFO [test02_xx.py(test03_zmxx:60)] - 点击蒙屏菜单按钮
+[admin] 2021-02-04 08:53:57,202 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 08:53:57,202 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 08:53:58,974 INFO [test02_xx.py(test03_zmxx:71)] - 正在进行断言，判断字母学习中是否存在字符C
+[admin] 2021-02-04 08:53:58,974 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 08:53:58,990 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 08:53:59,845 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 08:54:02,996 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:54:04,989 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 08:54:08,405 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:54:10,101 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 08:54:10,211 INFO [base.py(base_left_to_right_find_element:116)] - 找到目标元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 08:54:10,211 INFO [test02_xx.py(test03_zmxx:73)] - 断言成功，找到字母
+[admin] 2021-02-04 08:54:10,211 INFO [test02_xx.py(test03_zmxx:78)] - 返回学习主页面
+[admin] 2021-02-04 08:54:10,211 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 08:54:10,211 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 08:54:10,931 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 08:54:10,931 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 08:54:11,716 INFO [test02_xx.py(test04_zmxx_error_demo:83)] - 点击进入字母学习页面
+[admin] 2021-02-04 08:54:14,717 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 08:54:14,717 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 08:54:15,029 INFO [test02_xx.py(test04_zmxx_error_demo:94)] - 正在进行断言，判断字母学习中是否存在字符%%%%
+[admin] 2021-02-04 08:54:15,029 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 08:54:15,029 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 08:54:29,097 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:54:32,390 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:54:34,114 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:54:37,226 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:54:38,892 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:54:41,982 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:54:44,075 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:54:47,395 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:54:49,834 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:54:53,403 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:54:55,064 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:54:58,177 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:54:59,828 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:55:03,014 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:55:04,922 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:55:08,429 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:55:09,576 INFO [base.py(base_left_to_right_find_element:123)] - 滑到最后一个屏幕，未找到元素
+[admin] 2021-02-04 08:55:09,576 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 08:55:09,576 INFO [base.py(base_get_screenshot_as_file:75)] - 正在进行截图，路径为C:\Users\Bill Bian\Desktop\fayu\img\test02_xx-2021_02_04 08_55_09.png
+[admin] 2021-02-04 08:55:09,948 INFO [base.py(__base_write_img:86)] - 正在将截图test02_xx-2021_02_04 08_55_09.png写入报告中
+[admin] 2021-02-04 08:55:09,948 INFO [base.py(__base_write_img:88)] - 打开文件
+[admin] 2021-02-04 08:55:09,948 INFO [test02_xx.py(test04_zmxx_error_demo:102)] - 返回学习主页面
+[admin] 2021-02-04 08:55:09,948 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 08:55:09,948 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 08:55:10,092 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 08:55:10,092 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 08:55:11,017 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 08:55:14,416 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:55:33,148 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="bbfed58e-4777-4a39-8830-460ef4cdc4ef")>
+[admin] 2021-02-04 08:55:33,148 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:55:33,159 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:55:35,282 INFO [test03_glsx.py(test01_glsh:26)] - 点击跟老师学页面
+[admin] 2021-02-04 08:55:35,282 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 08:55:35,282 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 08:55:38,305 INFO [test03_glsx.py(test01_glsh:28)] - 正在进行断言，判断是否成功跳转
+[admin] 2021-02-04 08:55:38,305 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="免费报名"]')
+[admin] 2021-02-04 08:55:39,208 INFO [test03_glsx.py(test02_glsh:33)] - 点击跟老师学页面——定位元素故障
+[admin] 2021-02-04 08:55:39,210 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:55:50,419 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 08:56:26,155 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:56:46,590 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="618bf85f-7417-4249-bc60-ec4f99d702bc")>
+[admin] 2021-02-04 08:56:46,590 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:56:46,590 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:56:48,789 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 08:56:48,789 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:56:48,789 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:56:58,915 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:56:58,916 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:56:59,797 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:56:59,797 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:57:03,039 INFO [test01_login.py(test01_login:28)] - 正在进行断言，判断是否登录成功
+[admin] 2021-02-04 08:57:03,054 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[admin] 2021-02-04 08:57:08,133 INFO [test01_login.py(test01_login:30)] - 断言成功
+[admin] 2021-02-04 08:57:08,133 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 08:57:11,512 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:57:31,547 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="4219eee3-706f-471a-92bc-f3ed1631bc1d")>
+[admin] 2021-02-04 08:57:31,547 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:57:31,555 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:57:33,682 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="4219eee3-706f-471a-92bc-f3ed1631bc1d")>
+[admin] 2021-02-04 08:57:33,682 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:57:33,682 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 08:57:36,945 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:57:36,945 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 08:57:38,238 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:57:38,238 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 08:57:41,842 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 08:57:41,842 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 08:57:45,421 INFO [test02_xx.py(test01_zimubiao:30)] - 进入字母表页
+[admin] 2021-02-04 08:57:47,423 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 08:57:47,423 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 08:57:47,919 INFO [test02_xx.py(test01_zimubiao:32)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 08:57:47,919 INFO [test02_xx.py(test01_zimubiao:34)] - 返回学习主页面
+[admin] 2021-02-04 08:57:47,919 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 08:57:47,919 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 08:57:50,260 INFO [test02_xx.py(test02_shipin:39)] - 进入字母讲解视频，查看视频播放情况
+[admin] 2021-02-04 08:57:52,267 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 08:57:52,267 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 08:57:53,230 INFO [test02_xx.py(test02_shipin:42)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 08:57:55,241 INFO [test02_xx.py(test02_shipin:45)] - 正在调出视频控制菜单，点击暂停按钮
+[admin] 2021-02-04 08:57:55,241 INFO [test02_xx.py(test02_shipin:46)] - 进入字母讲解视频
+[admin] 2021-02-04 08:57:55,241 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:57:55,241 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:57:55,304 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 08:58:05,443 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:58:05,443 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:58:05,521 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 08:58:06,956 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 08:58:06,956 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 08:58:07,049 INFO [test02_xx.py(test02_shipin:48)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 08:58:07,049 INFO [test02_xx.py(test02_shipin:50)] - 返回学习主页面
+[admin] 2021-02-04 08:58:07,049 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:58:07,049 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:58:07,615 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 08:58:17,836 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:58:17,836 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 08:58:17,914 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 08:58:18,845 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 08:58:18,845 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 08:58:20,936 INFO [test02_xx.py(test03_zmxx:56)] - 点击进入字母学习页面
+[admin] 2021-02-04 08:58:23,942 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 08:58:23,942 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 08:58:24,264 INFO [test02_xx.py(test03_zmxx:60)] - 点击蒙屏菜单按钮
+[admin] 2021-02-04 08:58:24,264 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 08:58:24,265 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 08:58:26,005 INFO [test02_xx.py(test03_zmxx:71)] - 正在进行断言，判断字母学习中是否存在字符C
+[admin] 2021-02-04 08:58:26,005 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 08:58:26,005 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 08:58:26,913 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 08:58:30,104 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:58:32,123 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 08:58:35,521 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:58:37,231 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 08:58:37,341 INFO [base.py(base_left_to_right_find_element:116)] - 找到目标元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 08:58:37,341 INFO [test02_xx.py(test03_zmxx:73)] - 断言成功，找到字母
+[admin] 2021-02-04 08:58:37,341 INFO [test02_xx.py(test03_zmxx:78)] - 返回学习主页面
+[admin] 2021-02-04 08:58:37,341 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 08:58:37,341 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 08:58:38,036 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 08:58:38,036 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 08:58:38,843 INFO [test02_xx.py(test04_zmxx_error_demo:83)] - 点击进入字母学习页面
+[admin] 2021-02-04 08:58:41,852 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 08:58:41,852 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 08:58:42,149 INFO [test02_xx.py(test04_zmxx_error_demo:94)] - 正在进行断言，判断字母学习中是否存在字符%%%%
+[admin] 2021-02-04 08:58:42,149 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 08:58:42,149 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 08:58:44,133 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:58:47,508 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:58:50,129 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:58:53,509 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:58:55,194 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:58:58,380 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:59:00,066 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:59:03,185 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:59:05,140 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:59:08,528 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:59:10,211 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:59:13,354 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:59:15,042 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:59:18,241 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:59:20,183 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 08:59:23,569 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 08:59:24,705 INFO [base.py(base_left_to_right_find_element:123)] - 滑到最后一个屏幕，未找到元素
+[admin] 2021-02-04 08:59:24,705 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 08:59:24,705 INFO [base.py(base_get_screenshot_as_file:75)] - 正在进行截图，路径为C:\Users\Bill Bian\Desktop\fayu\img\test02_xx-2021_02_04 08_59_24.png
+[admin] 2021-02-04 08:59:25,090 INFO [base.py(__base_write_img:86)] - 正在将截图test02_xx-2021_02_04 08_59_24.png写入报告中
+[admin] 2021-02-04 08:59:25,090 INFO [base.py(__base_write_img:88)] - 打开文件
+[admin] 2021-02-04 08:59:25,093 INFO [test02_xx.py(test04_zmxx_error_demo:102)] - 返回学习主页面
+[admin] 2021-02-04 08:59:25,093 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 08:59:25,094 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 08:59:25,226 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 08:59:25,226 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 08:59:26,211 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 08:59:29,675 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 08:59:49,777 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="2ebb6cf4-bb15-4137-a7ea-b7bfe1f1e739")>
+[admin] 2021-02-04 08:59:49,781 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:59:49,781 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 08:59:51,949 INFO [test03_glsx.py(test01_glsh:26)] - 点击跟老师学页面
+[admin] 2021-02-04 08:59:51,949 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 08:59:51,964 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 08:59:56,454 INFO [test03_glsx.py(test01_glsh:28)] - 正在进行断言，判断是否成功跳转
+[admin] 2021-02-04 08:59:56,454 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="免费报名"]')
+[admin] 2021-02-04 08:59:56,677 INFO [test03_glsx.py(test02_glsh:33)] - 点击跟老师学页面——定位元素故障
+[admin] 2021-02-04 08:59:56,677 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:00:07,232 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:00:52,037 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:01:13,236 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="3aa6d76b-a217-4136-b6d6-160530258ec9")>
+[admin] 2021-02-04 09:01:13,253 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:01:13,253 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:01:15,378 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 09:01:15,378 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:01:15,378 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:01:18,371 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:01:18,371 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:01:19,338 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:01:19,338 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:01:22,281 INFO [test01_login.py(test01_login:28)] - 正在进行断言，判断是否登录成功
+[admin] 2021-02-04 09:01:22,281 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[admin] 2021-02-04 09:01:29,927 INFO [test01_login.py(test01_login:30)] - 断言成功
+[admin] 2021-02-04 09:01:29,927 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:01:33,455 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:01:52,982 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="4070d3dd-cd01-4357-a098-9863be138dc5")>
+[admin] 2021-02-04 09:01:52,999 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:01:52,999 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:01:55,340 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="4070d3dd-cd01-4357-a098-9863be138dc5")>
+[admin] 2021-02-04 09:01:55,340 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:01:55,340 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:01:59,032 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:01:59,032 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:01:59,905 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:01:59,905 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:02:02,572 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 09:02:02,572 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 09:02:05,325 INFO [test02_xx.py(test01_zimubiao:30)] - 进入字母表页
+[admin] 2021-02-04 09:02:07,335 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 09:02:07,335 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 09:02:08,501 INFO [test02_xx.py(test01_zimubiao:32)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 09:02:08,501 INFO [test02_xx.py(test01_zimubiao:34)] - 返回学习主页面
+[admin] 2021-02-04 09:02:08,501 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 09:02:08,501 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 09:02:11,052 INFO [test02_xx.py(test02_shipin:39)] - 进入字母讲解视频，查看视频播放情况
+[admin] 2021-02-04 09:02:13,055 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 09:02:13,055 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 09:02:14,050 INFO [test02_xx.py(test02_shipin:42)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 09:02:16,054 INFO [test02_xx.py(test02_shipin:45)] - 正在调出视频控制菜单，点击暂停按钮
+[admin] 2021-02-04 09:02:16,054 INFO [test02_xx.py(test02_shipin:46)] - 进入字母讲解视频
+[admin] 2021-02-04 09:02:16,054 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:02:16,054 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:02:16,226 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:02:26,266 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:02:26,268 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:02:26,363 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:02:27,848 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:02:27,864 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:02:27,942 INFO [test02_xx.py(test02_shipin:48)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 09:02:27,942 INFO [test02_xx.py(test02_shipin:50)] - 返回学习主页面
+[admin] 2021-02-04 09:02:27,942 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:02:27,942 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:02:28,514 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:02:38,731 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:02:38,732 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:02:38,811 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:02:39,721 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:02:39,721 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:02:41,809 INFO [test02_xx.py(test03_zmxx:56)] - 点击进入字母学习页面
+[admin] 2021-02-04 09:02:44,817 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:02:44,817 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:02:45,176 INFO [test02_xx.py(test03_zmxx:60)] - 点击蒙屏菜单按钮
+[admin] 2021-02-04 09:02:45,176 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 09:02:45,176 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 09:02:50,055 INFO [test02_xx.py(test03_zmxx:71)] - 正在进行断言，判断字母学习中是否存在字符C
+[admin] 2021-02-04 09:02:50,071 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 09:02:50,071 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 09:02:51,805 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:02:54,836 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:02:57,238 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:03:00,367 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:03:02,445 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:03:02,554 INFO [base.py(base_left_to_right_find_element:116)] - 找到目标元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:03:02,554 INFO [test02_xx.py(test03_zmxx:73)] - 断言成功，找到字母
+[admin] 2021-02-04 09:03:02,554 INFO [test02_xx.py(test03_zmxx:78)] - 返回学习主页面
+[admin] 2021-02-04 09:03:02,554 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:03:02,570 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:03:02,694 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:03:02,694 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:03:03,532 INFO [test02_xx.py(test04_zmxx_error_demo:83)] - 点击进入字母学习页面
+[admin] 2021-02-04 09:03:06,535 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:03:06,535 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:03:06,848 INFO [test02_xx.py(test04_zmxx_error_demo:94)] - 正在进行断言，判断字母学习中是否存在字符%%%%
+[admin] 2021-02-04 09:03:06,848 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 09:03:06,848 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 09:03:09,033 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:03:12,228 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:03:14,266 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:03:17,634 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:03:19,361 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:03:22,545 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:03:24,247 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:03:27,366 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:03:29,366 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:03:32,726 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:03:34,435 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:03:37,508 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:03:39,237 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:03:42,303 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:03:44,376 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:03:47,679 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:03:48,849 INFO [base.py(base_left_to_right_find_element:123)] - 滑到最后一个屏幕，未找到元素
+[admin] 2021-02-04 09:03:48,849 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 09:03:48,849 INFO [base.py(base_get_screenshot_as_file:75)] - 正在进行截图，路径为C:\Users\Bill Bian\Desktop\fayu\img\test02_xx-2021_02_04 09_03_48.png
+[admin] 2021-02-04 09:03:49,228 INFO [base.py(__base_write_img:86)] - 正在将截图test02_xx-2021_02_04 09_03_48.png写入报告中
+[admin] 2021-02-04 09:03:49,228 INFO [base.py(__base_write_img:88)] - 打开文件
+[admin] 2021-02-04 09:03:49,231 INFO [test02_xx.py(test04_zmxx_error_demo:102)] - 返回学习主页面
+[admin] 2021-02-04 09:03:49,231 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:03:49,232 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:03:50,212 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:03:50,212 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:03:51,106 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:03:54,955 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:04:17,160 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="252bfc9a-c005-4948-9edb-274abf2ed134")>
+[admin] 2021-02-04 09:04:17,162 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:04:17,163 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:04:19,391 INFO [test03_glsx.py(test01_glsh:26)] - 点击跟老师学页面
+[admin] 2021-02-04 09:04:19,391 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 09:04:19,391 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 09:04:23,107 INFO [test03_glsx.py(test01_glsh:28)] - 正在进行断言，判断是否成功跳转
+[admin] 2021-02-04 09:04:23,108 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="免费报名"]')
+[admin] 2021-02-04 09:04:23,947 INFO [test03_glsx.py(test02_glsh:33)] - 点击跟老师学页面——定位元素故障
+[admin] 2021-02-04 09:04:23,947 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:04:34,474 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:39:42,694 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:40:01,847 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="0914f84e-9020-4a4a-a234-5ddce95822ac")>
+[admin] 2021-02-04 09:40:01,847 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:40:01,849 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:40:04,121 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 09:40:04,122 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:40:04,123 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:40:48,480 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:41:19,769 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:41:38,805 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="2ecc1acf-5038-4900-a59d-31dd88bfda00")>
+[admin] 2021-02-04 09:41:38,805 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:41:38,806 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:41:41,210 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 09:41:41,211 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:41:41,212 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:41:44,057 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:41:44,058 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:41:44,984 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:41:44,985 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:41:47,623 INFO [test01_login.py(test01_login:28)] - 正在进行断言，判断是否登录成功
+[admin] 2021-02-04 09:41:47,624 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[admin] 2021-02-04 09:41:49,922 INFO [test01_login.py(test01_login:30)] - 断言成功
+[admin] 2021-02-04 09:41:49,922 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:41:52,894 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:42:10,466 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="0cacb096-febb-4589-b745-9e9218672e9f")>
+[admin] 2021-02-04 09:42:10,466 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:42:10,469 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:42:13,185 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="0cacb096-febb-4589-b745-9e9218672e9f")>
+[admin] 2021-02-04 09:42:13,186 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:42:13,187 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:42:16,148 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:42:16,149 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:42:16,477 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:42:16,478 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:42:19,106 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 09:42:19,107 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 09:42:21,388 INFO [test02_xx.py(test01_zimubiao:30)] - 进入字母表页
+[admin] 2021-02-04 09:42:23,389 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 09:42:23,390 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 09:42:24,001 INFO [test02_xx.py(test01_zimubiao:32)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 09:42:24,001 INFO [test02_xx.py(test01_zimubiao:34)] - 返回学习主页面
+[admin] 2021-02-04 09:42:24,003 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 09:42:24,003 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 09:42:26,359 INFO [test02_xx.py(test02_shipin:39)] - 进入字母讲解视频，查看视频播放情况
+[admin] 2021-02-04 09:42:28,360 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 09:42:28,360 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 09:42:28,688 INFO [test02_xx.py(test02_shipin:42)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 09:42:30,688 INFO [test02_xx.py(test02_shipin:45)] - 正在调出视频控制菜单，点击暂停按钮
+[admin] 2021-02-04 09:42:30,688 INFO [test02_xx.py(test02_shipin:46)] - 进入字母讲解视频
+[admin] 2021-02-04 09:42:30,689 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:42:30,690 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:42:30,768 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:42:40,875 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:42:40,876 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:42:40,968 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:42:42,274 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:42:42,274 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:42:42,342 INFO [test02_xx.py(test02_shipin:48)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 09:42:42,343 INFO [test02_xx.py(test02_shipin:50)] - 返回学习主页面
+[admin] 2021-02-04 09:42:42,344 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:42:42,344 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:42:42,904 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:42:52,957 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:42:52,958 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:42:53,048 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:42:53,953 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:42:53,953 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:42:56,060 INFO [test02_xx.py(test03_zmxx:56)] - 点击进入字母学习页面
+[admin] 2021-02-04 09:42:59,062 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:42:59,062 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:42:59,259 INFO [test02_xx.py(test03_zmxx:60)] - 点击蒙屏菜单按钮
+[admin] 2021-02-04 09:42:59,260 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 09:42:59,260 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 09:43:01,103 INFO [test02_xx.py(test03_zmxx:71)] - 正在进行断言，判断字母学习中是否存在字符C
+[admin] 2021-02-04 09:43:01,103 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 09:43:01,104 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 09:43:01,803 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:43:05,178 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:43:07,202 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:43:10,636 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:43:12,260 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:43:12,329 INFO [base.py(base_left_to_right_find_element:116)] - 找到目标元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:43:12,330 INFO [test02_xx.py(test03_zmxx:73)] - 断言成功，找到字母
+[admin] 2021-02-04 09:43:12,330 INFO [test02_xx.py(test03_zmxx:78)] - 返回学习主页面
+[admin] 2021-02-04 09:43:12,331 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:43:12,331 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:43:12,422 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:43:12,423 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:43:13,275 INFO [test02_xx.py(test04_zmxx_error_demo:83)] - 点击进入字母学习页面
+[admin] 2021-02-04 09:43:16,275 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:43:16,276 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:43:16,578 INFO [test02_xx.py(test04_zmxx_error_demo:94)] - 正在进行断言，判断字母学习中是否存在字符%%%%
+[admin] 2021-02-04 09:43:16,579 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 09:43:16,580 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 09:43:18,396 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:43:21,460 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:43:23,138 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:43:26,268 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:43:28,322 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:43:31,686 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:43:33,382 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:43:36,591 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:43:38,310 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:43:41,332 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:43:43,312 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:43:46,713 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:43:48,409 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:43:51,996 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:43:53,449 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:43:56,967 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:43:58,238 INFO [base.py(base_left_to_right_find_element:123)] - 滑到最后一个屏幕，未找到元素
+[admin] 2021-02-04 09:43:58,239 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 09:43:58,241 INFO [base.py(base_get_screenshot_as_file:75)] - 正在进行截图，路径为C:\Users\Bill Bian\Desktop\fayu\img\test02_xx-2021_02_04 09_43_58.png
+[admin] 2021-02-04 09:43:58,613 INFO [base.py(__base_write_img:86)] - 正在将截图test02_xx-2021_02_04 09_43_58.png写入报告中
+[admin] 2021-02-04 09:43:58,613 INFO [base.py(__base_write_img:88)] - 打开文件
+[admin] 2021-02-04 09:43:58,615 INFO [test02_xx.py(test04_zmxx_error_demo:102)] - 返回学习主页面
+[admin] 2021-02-04 09:43:58,616 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:43:58,616 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:43:58,755 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:43:58,755 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:43:59,672 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:44:03,358 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:44:24,021 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="c867dda7-1294-4f84-a1c3-66ea6da766ab")>
+[admin] 2021-02-04 09:44:24,022 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:44:24,024 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:44:26,170 INFO [test03_glsx.py(test01_glsh:26)] - 点击跟老师学页面
+[admin] 2021-02-04 09:44:26,170 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 09:44:26,170 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 09:44:29,517 INFO [test03_glsx.py(test01_glsh:28)] - 正在进行断言，判断是否成功跳转
+[admin] 2021-02-04 09:44:29,518 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="免费报名"]')
+[admin] 2021-02-04 09:44:30,335 INFO [test03_glsx.py(test02_glsh:33)] - 点击跟老师学页面——定位元素故障
+[admin] 2021-02-04 09:44:30,335 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:44:40,705 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:48:12,093 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:48:36,073 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="2d7cab16-32f1-4515-aa2e-0c649fe673dc")>
+[admin] 2021-02-04 09:48:36,073 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:48:36,074 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:48:38,266 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 09:48:38,266 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:48:38,267 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:48:41,201 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:48:41,201 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:48:41,876 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:48:41,877 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:48:44,516 INFO [test01_login.py(test01_login:28)] - 正在进行断言，判断是否登录成功
+[admin] 2021-02-04 09:48:44,516 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[admin] 2021-02-04 09:48:46,594 INFO [test01_login.py(test01_login:30)] - 断言成功
+[admin] 2021-02-04 09:48:46,595 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:48:50,801 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:49:12,928 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="3638377e-bbff-4406-8a75-15d5f5ab4f52")>
+[admin] 2021-02-04 09:49:12,929 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:49:12,929 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:49:15,027 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="3638377e-bbff-4406-8a75-15d5f5ab4f52")>
+[admin] 2021-02-04 09:49:15,028 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:49:15,028 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:49:17,703 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:49:17,703 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:49:18,378 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:49:18,378 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:49:20,862 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 09:49:20,863 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 09:49:22,733 INFO [test02_xx.py(test01_zimubiao:30)] - 进入字母表页
+[admin] 2021-02-04 09:49:24,734 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 09:49:24,734 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 09:49:25,727 INFO [test02_xx.py(test01_zimubiao:32)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 09:49:25,727 INFO [test02_xx.py(test01_zimubiao:34)] - 返回学习主页面
+[admin] 2021-02-04 09:49:25,728 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 09:49:25,728 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 09:49:28,352 INFO [test02_xx.py(test02_shipin:39)] - 进入字母讲解视频，查看视频播放情况
+[admin] 2021-02-04 09:49:30,359 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 09:49:30,359 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 09:49:31,343 INFO [test02_xx.py(test02_shipin:42)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 09:49:33,347 INFO [test02_xx.py(test02_shipin:45)] - 正在调出视频控制菜单，点击暂停按钮
+[admin] 2021-02-04 09:49:33,347 INFO [test02_xx.py(test02_shipin:46)] - 进入字母讲解视频
+[admin] 2021-02-04 09:49:33,347 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:49:33,347 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:49:33,916 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:49:44,022 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:49:44,022 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:49:44,105 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:49:45,515 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:49:45,515 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:49:45,597 INFO [test02_xx.py(test02_shipin:48)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 09:49:45,597 INFO [test02_xx.py(test02_shipin:50)] - 返回学习主页面
+[admin] 2021-02-04 09:49:45,598 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:49:45,598 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:49:46,114 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:49:56,145 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:49:56,145 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:49:56,233 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:49:57,149 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:49:57,150 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:49:59,225 INFO [test02_xx.py(test03_zmxx:56)] - 点击进入字母学习页面
+[admin] 2021-02-04 09:50:02,226 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:50:02,226 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:50:02,432 INFO [test02_xx.py(test03_zmxx:60)] - 点击蒙屏菜单按钮
+[admin] 2021-02-04 09:50:02,433 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 09:50:02,433 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 09:50:04,352 INFO [test02_xx.py(test03_zmxx:71)] - 正在进行断言，判断字母学习中是否存在字符C
+[admin] 2021-02-04 09:50:04,352 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 09:50:04,353 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 09:50:05,147 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:50:08,448 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:50:10,461 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:50:13,886 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:50:15,628 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:50:15,732 INFO [base.py(base_left_to_right_find_element:116)] - 找到目标元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:50:15,733 INFO [test02_xx.py(test03_zmxx:73)] - 断言成功，找到字母
+[admin] 2021-02-04 09:50:15,734 INFO [test02_xx.py(test03_zmxx:78)] - 返回学习主页面
+[admin] 2021-02-04 09:50:15,734 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:50:15,735 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:50:16,466 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:50:16,467 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:50:17,298 INFO [test02_xx.py(test04_zmxx_error_demo:83)] - 点击进入字母学习页面
+[admin] 2021-02-04 09:50:20,298 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:50:20,298 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:50:20,579 INFO [test02_xx.py(test04_zmxx_error_demo:94)] - 正在进行断言，判断字母学习中是否存在字符%%%%
+[admin] 2021-02-04 09:50:20,579 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 09:50:20,580 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 09:50:22,590 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:50:25,942 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:50:27,642 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:50:30,741 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:50:32,420 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:50:35,535 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:50:37,686 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:50:40,928 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:50:42,603 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:50:45,727 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:50:47,406 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:50:50,755 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:50:52,524 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:50:55,934 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:50:57,491 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:51:00,843 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:51:02,060 INFO [base.py(base_left_to_right_find_element:123)] - 滑到最后一个屏幕，未找到元素
+[admin] 2021-02-04 09:51:02,061 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 09:51:02,062 INFO [base.py(base_get_screenshot_as_file:75)] - 正在进行截图，路径为C:\Users\Bill Bian\Desktop\fayu\img\test02_xx-2021_02_04 09_51_02.png
+[admin] 2021-02-04 09:51:02,447 INFO [base.py(__base_write_img:86)] - 正在将截图test02_xx-2021_02_04 09_51_02.png写入报告中
+[admin] 2021-02-04 09:51:02,448 INFO [base.py(__base_write_img:88)] - 打开文件
+[admin] 2021-02-04 09:51:02,450 INFO [test02_xx.py(test04_zmxx_error_demo:102)] - 返回学习主页面
+[admin] 2021-02-04 09:51:02,450 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:51:02,450 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:51:02,546 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:51:02,546 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:51:03,536 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:51:07,624 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:51:31,855 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="d8ebcc57-8b99-4548-96f7-2f2a8b1a02a4")>
+[admin] 2021-02-04 09:51:31,856 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:51:31,857 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:51:34,404 INFO [test03_glsx.py(test01_glsh:26)] - 点击跟老师学页面
+[admin] 2021-02-04 09:51:34,405 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 09:51:34,406 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 09:51:37,386 INFO [test03_glsx.py(test01_glsh:28)] - 正在进行断言，判断是否成功跳转
+[admin] 2021-02-04 09:51:37,386 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="免费报名"]')
+[admin] 2021-02-04 09:51:38,238 INFO [test03_glsx.py(test02_glsh:33)] - 点击跟老师学页面——定位元素故障
+[admin] 2021-02-04 09:51:38,239 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:51:48,669 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:55:42,731 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:56:06,265 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="a11bfddc-edf0-4c35-9a3a-3af4e8339201")>
+[admin] 2021-02-04 09:56:06,265 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:56:06,265 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:56:08,393 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 09:56:08,393 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:56:08,393 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:56:11,166 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:56:11,166 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:56:12,022 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:56:12,022 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:56:14,573 INFO [test01_login.py(test01_login:28)] - 正在进行断言，判断是否登录成功
+[admin] 2021-02-04 09:56:14,573 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[admin] 2021-02-04 09:56:16,838 INFO [test01_login.py(test01_login:30)] - 断言成功
+[admin] 2021-02-04 09:56:16,838 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:56:21,291 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:56:44,515 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="721e5f4a-0351-417a-a217-6ef1a99d36a9")>
+[admin] 2021-02-04 09:56:44,515 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:56:44,515 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:56:46,681 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="721e5f4a-0351-417a-a217-6ef1a99d36a9")>
+[admin] 2021-02-04 09:56:46,681 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:56:46,681 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 09:56:49,546 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:56:49,546 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 09:56:50,230 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:56:50,230 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 09:56:52,695 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 09:56:52,695 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 09:56:54,435 INFO [test02_xx.py(test01_zimubiao:30)] - 进入字母表页
+[admin] 2021-02-04 09:56:56,439 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 09:56:56,439 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 09:56:56,908 INFO [test02_xx.py(test01_zimubiao:32)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 09:56:56,908 INFO [test02_xx.py(test01_zimubiao:34)] - 返回学习主页面
+[admin] 2021-02-04 09:56:56,908 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 09:56:56,908 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 09:56:59,350 INFO [test02_xx.py(test02_shipin:39)] - 进入字母讲解视频，查看视频播放情况
+[admin] 2021-02-04 09:57:01,358 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 09:57:01,358 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 09:57:01,975 INFO [test02_xx.py(test02_shipin:42)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 09:57:03,982 INFO [test02_xx.py(test02_shipin:45)] - 正在调出视频控制菜单，点击暂停按钮
+[admin] 2021-02-04 09:57:03,982 INFO [test02_xx.py(test02_shipin:46)] - 进入字母讲解视频
+[admin] 2021-02-04 09:57:03,982 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:57:03,982 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:57:04,060 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:57:14,119 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:57:14,119 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:57:14,189 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:57:15,317 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:57:15,317 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 09:57:15,427 INFO [test02_xx.py(test02_shipin:48)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 09:57:15,427 INFO [test02_xx.py(test02_shipin:50)] - 返回学习主页面
+[admin] 2021-02-04 09:57:15,427 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:57:15,427 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:57:16,029 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:57:26,067 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:57:26,067 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 09:57:26,145 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:57:27,049 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:57:27,049 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 09:57:29,136 INFO [test02_xx.py(test03_zmxx:56)] - 点击进入字母学习页面
+[admin] 2021-02-04 09:57:32,147 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:57:32,147 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:57:32,319 INFO [test02_xx.py(test03_zmxx:60)] - 点击蒙屏菜单按钮
+[admin] 2021-02-04 09:57:32,319 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 09:57:32,319 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 09:57:33,974 INFO [test02_xx.py(test03_zmxx:71)] - 正在进行断言，判断字母学习中是否存在字符C
+[admin] 2021-02-04 09:57:33,974 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 09:57:33,974 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 09:57:34,771 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:57:38,166 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:57:39,749 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:57:42,814 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:57:44,413 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:57:44,460 INFO [base.py(base_left_to_right_find_element:116)] - 找到目标元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 09:57:44,460 INFO [test02_xx.py(test03_zmxx:73)] - 断言成功，找到字母
+[admin] 2021-02-04 09:57:44,460 INFO [test02_xx.py(test03_zmxx:78)] - 返回学习主页面
+[admin] 2021-02-04 09:57:44,460 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:57:44,460 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:57:44,522 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:57:44,522 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:57:45,230 INFO [test02_xx.py(test04_zmxx_error_demo:83)] - 点击进入字母学习页面
+[admin] 2021-02-04 09:57:48,239 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:57:48,239 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 09:57:48,536 INFO [test02_xx.py(test04_zmxx_error_demo:94)] - 正在进行断言，判断字母学习中是否存在字符%%%%
+[admin] 2021-02-04 09:57:48,536 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 09:57:48,536 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 09:57:50,363 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:57:53,815 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:57:55,804 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:57:59,245 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:58:00,953 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:58:04,081 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:58:06,305 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:58:09,539 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:58:11,341 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:58:14,872 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:58:16,838 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:58:20,220 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:58:21,965 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:58:25,099 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:58:26,541 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 09:58:29,867 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 09:58:30,996 INFO [base.py(base_left_to_right_find_element:123)] - 滑到最后一个屏幕，未找到元素
+[admin] 2021-02-04 09:58:31,011 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 09:58:31,011 INFO [base.py(base_get_screenshot_as_file:75)] - 正在进行截图，路径为C:\Users\Bill Bian\Desktop\fayu\img\test02_xx-2021_02_04 09_58_31.png
+[admin] 2021-02-04 09:58:31,372 INFO [base.py(__base_write_img:86)] - 正在将截图test02_xx-2021_02_04 09_58_31.png写入报告中
+[admin] 2021-02-04 09:58:31,372 INFO [base.py(__base_write_img:88)] - 打开文件
+[admin] 2021-02-04 09:58:31,372 INFO [test02_xx.py(test04_zmxx_error_demo:102)] - 返回学习主页面
+[admin] 2021-02-04 09:58:31,372 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:58:31,372 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 09:58:31,781 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:58:31,781 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 09:58:32,701 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 09:58:36,571 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 09:58:57,950 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="edab36dc-61b1-47cb-8638-d8d3cf2abbbb")>
+[admin] 2021-02-04 09:58:57,950 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:58:57,950 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:59:00,098 INFO [test03_glsx.py(test01_glsh:26)] - 点击跟老师学页面
+[admin] 2021-02-04 09:59:00,098 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 09:59:00,098 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 09:59:02,871 INFO [test03_glsx.py(test01_glsh:28)] - 正在进行断言，判断是否成功跳转
+[admin] 2021-02-04 09:59:02,871 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="免费报名"]')
+[admin] 2021-02-04 09:59:03,716 INFO [test03_glsx.py(test02_glsh:33)] - 点击跟老师学页面——定位元素故障
+[admin] 2021-02-04 09:59:03,716 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 09:59:14,241 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 10:05:06,047 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 10:05:29,210 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="1f46063d-0fb7-44f1-a326-965f9c9b7ae2")>
+[admin] 2021-02-04 10:05:29,225 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:05:29,225 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:05:31,922 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 10:05:31,922 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:05:31,922 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:05:35,798 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:05:35,798 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:05:36,709 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:05:36,710 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:05:40,923 INFO [test01_login.py(test01_login:28)] - 正在进行断言，判断是否登录成功
+[admin] 2021-02-04 10:05:40,939 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[admin] 2021-02-04 10:05:43,002 INFO [test01_login.py(test01_login:30)] - 断言成功
+[admin] 2021-02-04 10:05:43,002 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 10:05:46,991 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 10:06:08,580 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="196cb59d-9d8f-429a-bd0e-55fe23bfd7ed")>
+[admin] 2021-02-04 10:06:08,580 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:06:08,580 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:06:11,288 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="196cb59d-9d8f-429a-bd0e-55fe23bfd7ed")>
+[admin] 2021-02-04 10:06:11,288 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:06:11,288 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:06:13,961 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:06:13,961 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:06:14,929 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:06:14,929 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:06:17,583 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 10:06:17,583 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 10:06:19,943 INFO [test02_xx.py(test01_zimubiao:30)] - 进入字母表页
+[admin] 2021-02-04 10:06:21,943 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 10:06:21,943 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 10:06:22,943 INFO [test02_xx.py(test01_zimubiao:32)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 10:06:22,943 INFO [test02_xx.py(test01_zimubiao:34)] - 返回学习主页面
+[admin] 2021-02-04 10:06:22,943 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 10:06:22,943 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 10:06:25,958 INFO [test02_xx.py(test02_shipin:39)] - 进入字母讲解视频，查看视频播放情况
+[admin] 2021-02-04 10:06:27,959 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 10:06:27,959 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 10:06:28,959 INFO [test02_xx.py(test02_shipin:42)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 10:06:30,967 INFO [test02_xx.py(test02_shipin:45)] - 正在调出视频控制菜单，点击暂停按钮
+[admin] 2021-02-04 10:06:30,967 INFO [test02_xx.py(test02_shipin:46)] - 进入字母讲解视频
+[admin] 2021-02-04 10:06:30,967 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:06:30,967 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:06:31,029 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 10:06:41,157 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:06:41,157 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:06:41,237 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 10:06:42,588 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 10:06:42,588 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 10:06:42,698 INFO [test02_xx.py(test02_shipin:48)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 10:06:42,698 INFO [test02_xx.py(test02_shipin:50)] - 返回学习主页面
+[admin] 2021-02-04 10:06:42,698 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:06:42,698 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:06:43,248 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 10:06:53,295 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:06:53,295 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:06:53,373 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 10:06:54,285 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 10:06:54,285 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 10:06:56,383 INFO [test02_xx.py(test03_zmxx:56)] - 点击进入字母学习页面
+[admin] 2021-02-04 10:06:59,396 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 10:06:59,396 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 10:06:59,603 INFO [test02_xx.py(test03_zmxx:60)] - 点击蒙屏菜单按钮
+[admin] 2021-02-04 10:06:59,603 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 10:06:59,603 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 10:07:01,252 INFO [test02_xx.py(test03_zmxx:71)] - 正在进行断言，判断字母学习中是否存在字符C
+[admin] 2021-02-04 10:07:01,252 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 10:07:01,268 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 10:07:02,083 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 10:07:05,493 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:07:06,984 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 10:07:10,195 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:07:11,874 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 10:07:11,969 INFO [base.py(base_left_to_right_find_element:116)] - 找到目标元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 10:07:11,969 INFO [test02_xx.py(test03_zmxx:73)] - 断言成功，找到字母
+[admin] 2021-02-04 10:07:11,969 INFO [test02_xx.py(test03_zmxx:78)] - 返回学习主页面
+[admin] 2021-02-04 10:07:11,969 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 10:07:11,969 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 10:07:12,094 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 10:07:12,094 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 10:07:12,906 INFO [test02_xx.py(test04_zmxx_error_demo:83)] - 点击进入字母学习页面
+[admin] 2021-02-04 10:07:15,919 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 10:07:15,919 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 10:07:16,217 INFO [test02_xx.py(test04_zmxx_error_demo:94)] - 正在进行断言，判断字母学习中是否存在字符%%%%
+[admin] 2021-02-04 10:07:16,217 INFO [base.py(base_left_to_right_find_element:93)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 10:07:16,217 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 10:07:18,136 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:07:21,160 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:07:23,130 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:07:26,537 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:07:28,236 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:07:31,423 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:07:33,160 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:07:36,184 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:07:38,685 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:07:42,167 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:07:44,203 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:07:47,577 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:07:50,212 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:07:53,576 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:07:55,085 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:07:58,659 INFO [base.py(base_left_to_right_find_element:119)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:07:59,932 INFO [base.py(base_left_to_right_find_element:123)] - 滑到最后一个屏幕，未找到元素
+[admin] 2021-02-04 10:07:59,934 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 10:07:59,937 INFO [base.py(base_get_screenshot_as_file:75)] - 正在进行截图，路径为C:\Users\Bill Bian\Desktop\fayu\img\test02_xx-2021_02_04 10_07_59.png
+[admin] 2021-02-04 10:08:00,347 INFO [base.py(__base_write_img:86)] - 正在将截图test02_xx-2021_02_04 10_07_59.png写入报告中
+[admin] 2021-02-04 10:08:00,349 INFO [base.py(__base_write_img:88)] - 打开文件
+[admin] 2021-02-04 10:08:00,353 INFO [test02_xx.py(test04_zmxx_error_demo:102)] - 返回学习主页面
+[admin] 2021-02-04 10:08:00,354 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 10:08:00,355 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 10:08:00,528 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 10:08:00,541 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 10:08:02,367 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 10:08:11,216 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 10:08:52,882 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="5a39ddaf-1dd4-4583-b2e4-689ac4758e75")>
+[admin] 2021-02-04 10:08:52,883 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:08:52,884 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:08:55,042 INFO [test03_glsx.py(test01_glsh:26)] - 点击跟老师学页面
+[admin] 2021-02-04 10:08:55,042 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 10:08:55,044 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 10:09:06,515 INFO [test03_glsx.py(test01_glsh:28)] - 正在进行断言，判断是否成功跳转
+[admin] 2021-02-04 10:09:06,525 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="免费报名"]')
+[admin] 2021-02-04 10:09:07,308 INFO [test03_glsx.py(test02_glsh:33)] - 点击跟老师学页面——定位元素故障
+[admin] 2021-02-04 10:09:07,309 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:09:17,674 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 10:10:17,568 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 10:10:47,562 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="4fd0727a-8c18-404b-9b93-7cc277b28e68")>
+[admin] 2021-02-04 10:10:47,563 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:10:47,564 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:10:50,296 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 10:10:50,296 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:10:50,297 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:10:56,713 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:10:56,715 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:10:58,238 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:10:58,239 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:11:02,534 INFO [test01_login.py(test01_login:28)] - 正在进行断言，判断是否登录成功
+[admin] 2021-02-04 10:11:02,534 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[admin] 2021-02-04 10:11:12,889 INFO [test01_login.py(test01_login:32)] - 断言失败
+[admin] 2021-02-04 10:11:13,039 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 10:11:16,181 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 10:11:16,182 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="4fd0727a-8c18-404b-9b93-7cc277b28e68")>
+[admin] 2021-02-04 10:11:16,182 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:11:16,183 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:11:26,813 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 10:11:26,814 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="4fd0727a-8c18-404b-9b93-7cc277b28e68")>
+[admin] 2021-02-04 10:11:26,816 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:11:26,817 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:12:13,423 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 10:12:38,753 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="d2807d9c-086e-4111-af8b-f88286b62648")>
+[admin] 2021-02-04 10:12:38,756 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:12:38,758 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:12:41,124 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 10:12:41,125 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:12:41,125 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:12:44,658 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:12:44,659 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:12:45,579 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:12:45,579 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:12:47,976 INFO [test01_login.py(test01_login:28)] - 正在进行断言，判断是否登录成功
+[admin] 2021-02-04 10:12:47,977 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[admin] 2021-02-04 10:12:50,343 INFO [test01_login.py(test01_login:30)] - 断言成功
+[admin] 2021-02-04 10:12:50,346 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 10:12:54,599 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 10:13:17,973 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="acbffd58-01ac-4737-8a23-6844032bc493")>
+[admin] 2021-02-04 10:13:17,974 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:13:17,975 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:13:20,166 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="acbffd58-01ac-4737-8a23-6844032bc493")>
+[admin] 2021-02-04 10:13:20,167 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:13:20,168 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:13:23,715 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:13:23,715 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:13:24,672 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:13:24,673 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:13:26,973 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 10:13:26,975 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 10:13:29,144 INFO [test02_xx.py(test01_zimubiao:30)] - 进入字母表页
+[admin] 2021-02-04 10:13:31,145 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 10:13:31,146 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 10:13:32,149 INFO [test02_xx.py(test01_zimubiao:32)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 10:13:32,150 INFO [test02_xx.py(test01_zimubiao:34)] - 返回学习主页面
+[admin] 2021-02-04 10:13:32,150 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 10:13:32,150 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 10:13:34,528 INFO [test02_xx.py(test02_shipin:39)] - 进入字母讲解视频，查看视频播放情况
+[admin] 2021-02-04 10:13:36,530 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 10:13:36,531 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 10:13:36,939 INFO [test02_xx.py(test02_shipin:42)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 10:13:38,941 INFO [test02_xx.py(test02_shipin:45)] - 正在调出视频控制菜单，点击暂停按钮
+[admin] 2021-02-04 10:13:38,941 INFO [test02_xx.py(test02_shipin:46)] - 进入字母讲解视频
+[admin] 2021-02-04 10:13:38,942 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:13:38,943 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:13:39,129 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 10:13:49,168 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:13:49,168 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:13:49,242 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 10:13:50,225 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 10:13:50,226 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 10:13:50,299 INFO [test02_xx.py(test02_shipin:48)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 10:13:50,299 INFO [test02_xx.py(test02_shipin:50)] - 返回学习主页面
+[admin] 2021-02-04 10:13:50,300 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:13:50,301 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:13:50,862 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 10:14:00,979 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:14:00,980 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:14:01,067 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 10:14:01,980 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 10:14:01,981 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 10:14:04,084 INFO [test02_xx.py(test03_zmxx:56)] - 点击进入字母学习页面
+[admin] 2021-02-04 10:14:07,085 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 10:14:07,088 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 10:14:07,322 INFO [test02_xx.py(test03_zmxx:60)] - 点击蒙屏菜单按钮
+[admin] 2021-02-04 10:14:07,323 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 10:14:07,324 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 10:14:29,341 INFO [test02_xx.py(test04_zmxx_error_demo:83)] - 点击进入字母学习页面
+[admin] 2021-02-04 10:14:32,342 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 10:14:32,342 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 10:14:43,090 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 10:14:46,303 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 10:14:46,303 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="acbffd58-01ac-4737-8a23-6844032bc493")>
+[admin] 2021-02-04 10:14:46,304 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:14:46,304 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:35:52,392 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 10:36:16,565 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="12277ef0-0923-4354-8b66-5cf956a3cac6")>
+[admin] 2021-02-04 10:36:16,565 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:36:16,566 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:36:18,767 INFO [test01_login.py(test01_login:25)] - 调用登录业务组合方法
+[admin] 2021-02-04 10:36:18,768 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:36:18,769 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:36:21,661 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:36:21,661 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:36:22,612 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:36:22,613 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:36:25,119 INFO [test01_login.py(test01_login:28)] - 正在进行断言，判断是否登录成功
+[admin] 2021-02-04 10:36:25,119 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="边天一"]')
+[admin] 2021-02-04 10:36:27,542 INFO [test01_login.py(test01_login:30)] - 断言成功
+[admin] 2021-02-04 10:36:27,545 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 10:36:31,688 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 10:36:55,104 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="64e5e319-83c7-4d40-8416-a8d578e4b1c3")>
+[admin] 2021-02-04 10:36:55,104 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:36:55,104 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:36:57,234 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="64e5e319-83c7-4d40-8416-a8d578e4b1c3")>
+[admin] 2021-02-04 10:36:57,235 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:36:57,236 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="我的"]')
+[admin] 2021-02-04 10:37:00,758 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:37:00,759 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="未登录"]')
+[admin] 2021-02-04 10:37:01,428 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:37:01,429 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/authsdk_login_view')
+[admin] 2021-02-04 10:37:03,756 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 10:37:03,757 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="学习"])')
+[admin] 2021-02-04 10:37:06,403 INFO [test02_xx.py(test01_zimubiao:30)] - 进入字母表页
+[admin] 2021-02-04 10:37:08,403 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 10:37:08,403 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '(//android.view.View[@content-desc="字母表"])[1]')
+[admin] 2021-02-04 10:37:09,619 INFO [test02_xx.py(test01_zimubiao:32)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 10:37:09,619 INFO [test02_xx.py(test01_zimubiao:34)] - 返回学习主页面
+[admin] 2021-02-04 10:37:09,620 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 10:37:09,621 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.widget.FrameLayout[@content-desc="返回"]')
+[admin] 2021-02-04 10:37:12,185 INFO [test02_xx.py(test02_shipin:39)] - 进入字母讲解视频，查看视频播放情况
+[admin] 2021-02-04 10:37:14,187 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 10:37:14,187 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[admin] 2021-02-04 10:37:15,182 INFO [test02_xx.py(test02_shipin:42)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 10:37:17,183 INFO [test02_xx.py(test02_shipin:45)] - 正在调出视频控制菜单，点击暂停按钮
+[admin] 2021-02-04 10:37:17,183 INFO [test02_xx.py(test02_shipin:46)] - 进入字母讲解视频
+[admin] 2021-02-04 10:37:17,184 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:37:17,187 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:37:17,624 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 10:37:27,850 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:37:27,850 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:37:27,962 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 10:37:28,864 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 10:37:28,865 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[admin] 2021-02-04 10:37:28,943 INFO [test02_xx.py(test02_shipin:48)] - 正在进行断言（简化处理，demo这里写死）
+[admin] 2021-02-04 10:37:28,944 INFO [test02_xx.py(test02_shipin:50)] - 返回学习主页面
+[admin] 2021-02-04 10:37:28,944 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:37:28,945 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:37:29,494 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 10:37:39,630 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:37:39,631 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[admin] 2021-02-04 10:37:39,710 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 10:37:40,625 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 10:37:40,625 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[admin] 2021-02-04 10:37:42,711 INFO [test02_xx.py(test03_zmxx:56)] - 点击进入字母学习页面
+[admin] 2021-02-04 10:37:45,713 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 10:37:45,713 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 10:37:45,925 INFO [test02_xx.py(test03_zmxx:60)] - 点击蒙屏菜单按钮
+[admin] 2021-02-04 10:37:45,926 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 10:37:45,926 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../../android.widget.FrameLayout[2]/android.widget.ImageView[3]')
+[admin] 2021-02-04 10:37:48,192 INFO [test02_xx.py(test03_zmxx:71)] - 正在进行断言，判断字母学习中是否存在字符C
+[admin] 2021-02-04 10:37:48,193 INFO [base.py(base_left_to_right_find_element:94)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 10:37:48,194 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 10:37:49,594 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="C"]')
+[admin] 2021-02-04 10:37:53,322 INFO [base.py(base_left_to_right_find_element:120)] - 未找到元素('xpath', '//android.view.View[@content-desc="C"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:37:54,395 INFO [base.py(base_left_to_right_find_element:124)] - 滑到最后一个屏幕，未找到元素
+[admin] 2021-02-04 10:37:54,395 ERROR [test02_xx.py(test03_zmxx:75)] - 断言失败
+[admin] 2021-02-04 10:37:54,421 INFO [test02_xx.py(test03_zmxx:78)] - 返回学习主页面
+[admin] 2021-02-04 10:37:54,422 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 10:37:54,422 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 10:37:54,510 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 10:37:54,512 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 10:37:55,323 INFO [test02_xx.py(test04_zmxx_error_demo:83)] - 点击进入字母学习页面
+[admin] 2021-02-04 10:37:58,325 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 10:37:58,325 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]')
+[admin] 2021-02-04 10:37:58,509 INFO [test02_xx.py(test04_zmxx_error_demo:94)] - 正在进行断言，判断字母学习中是否存在字符%%%%
+[admin] 2021-02-04 10:37:58,511 INFO [base.py(base_left_to_right_find_element:94)] - 正在调用从左向右滑动方法
+[admin] 2021-02-04 10:37:58,511 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/layout_container')
+[admin] 2021-02-04 10:38:00,395 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:38:03,760 INFO [base.py(base_left_to_right_find_element:120)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:38:05,452 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:38:08,570 INFO [base.py(base_left_to_right_find_element:120)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:38:10,308 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:38:13,411 INFO [base.py(base_left_to_right_find_element:120)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:38:15,368 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:38:18,839 INFO [base.py(base_left_to_right_find_element:120)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:38:20,560 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:38:23,574 INFO [base.py(base_left_to_right_find_element:120)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:38:25,319 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:38:28,377 INFO [base.py(base_left_to_right_find_element:120)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:38:30,383 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:38:33,771 INFO [base.py(base_left_to_right_find_element:120)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:38:35,227 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="%%%%"]')
+[admin] 2021-02-04 10:38:38,666 INFO [base.py(base_left_to_right_find_element:120)] - 未找到元素('xpath', '//android.view.View[@content-desc="%%%%"]'),进行滑动，重新寻找
+[admin] 2021-02-04 10:38:39,846 INFO [base.py(base_left_to_right_find_element:124)] - 滑到最后一个屏幕，未找到元素
+[admin] 2021-02-04 10:38:39,847 ERROR [test02_xx.py(test04_zmxx_error_demo:98)] - 断言失败
+[admin] 2021-02-04 10:38:39,847 INFO [base.py(base_get_screenshot_as_file:76)] - 正在进行截图，路径为C:\Users\Bill Bian\Desktop\fayu\img\test02_xx-2021_02_04 10_38_39.png
+[admin] 2021-02-04 10:38:40,238 INFO [base.py(__base_write_img:87)] - 正在将截图test02_xx-2021_02_04 10_38_39.png写入报告中
+[admin] 2021-02-04 10:38:40,238 INFO [base.py(__base_write_img:89)] - 打开文件
+[admin] 2021-02-04 10:38:40,240 INFO [test02_xx.py(test04_zmxx_error_demo:102)] - 返回学习主页面
+[admin] 2021-02-04 10:38:40,241 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 10:38:40,241 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="A-G"]/../android.widget.FrameLayout[1]')
+[admin] 2021-02-04 10:38:40,350 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 10:38:40,351 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="确认退出"]')
+[admin] 2021-02-04 10:38:41,166 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空
+[admin] 2021-02-04 10:38:45,415 INFO [get_driver.py(get_app_driver:18)] - 正在获取app驱动对象，启动参数是{'platformName': 'Android', 'platformVersion': '9', 'deviceName': 'HJS0218B27006432', 'appPackage': 'com.izaodao.french', 'appActivity': '.activity.SplashActivity', 'recreateChromeDriverSessions': True}
+[admin] 2021-02-04 10:39:08,510 INFO [base.py(__init__:19)] - 正在初始化驱动对象<appium.webdriver.webdriver.WebDriver (session="603869f1-60ae-4c47-9259-2185795cf880")>
+[admin] 2021-02-04 10:39:08,511 INFO [base.py(base_click_element:28)] - 正在点击元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:39:08,512 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:39:10,702 INFO [test03_glsx.py(test01_glsh:26)] - 点击跟老师学页面
+[admin] 2021-02-04 10:39:10,702 INFO [base.py(base_click_element:28)] - 正在点击元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 10:39:10,703 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="跟老师学"]')
+[admin] 2021-02-04 10:39:13,696 INFO [test03_glsx.py(test01_glsh:28)] - 正在进行断言，判断是否成功跳转
+[admin] 2021-02-04 10:39:13,696 INFO [base.py(base_find_element:23)] - 正在查找元素('xpath', '//android.view.View[@content-desc="免费报名"]')
+[admin] 2021-02-04 10:39:14,548 INFO [test03_glsx.py(test02_glsh:33)] - 点击跟老师学页面——定位元素故障
+[admin] 2021-02-04 10:39:14,553 INFO [base.py(base_find_element:23)] - 正在查找元素('id', 'com.izaodao.french:id/jurisdiction_cradtv6')
+[admin] 2021-02-04 10:39:24,816 INFO [get_driver.py(quit_app_driver:27)] - 关闭驱动对象，并置空

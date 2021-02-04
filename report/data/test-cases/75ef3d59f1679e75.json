@@ -1,0 +1,108 @@
+{
+  "uid" : "75ef3d59f1679e75",
+  "name" : "test02_shipin",
+  "fullName" : "script.test02_xx.TestXx#test02_shipin",
+  "historyId" : "87ad9bfe68238ae95cb20d66c9c9f13c",
+  "time" : {
+    "start" : 1612406232185,
+    "stop" : 1612406262703,
+    "duration" : 30518
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestXx",
+    "time" : {
+      "start" : 1612406191688,
+      "stop" : 1612406226402,
+      "duration" : 34714
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4318fac52ebb4c8a",
+      "name" : "log",
+      "source" : "4318fac52ebb4c8a.txt",
+      "type" : "text/plain",
+      "size" : 2404
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestXx::0",
+    "time" : {
+      "start" : 1612406321167,
+      "stop" : 1612406325407,
+      "duration" : 4240
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "学习页面业务功能测试"
+  }, {
+    "name" : "story",
+    "value" : "测试视频播放/暂停功能"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test02_xx"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestXx"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NBKAC8C"
+  }, {
+    "name" : "thread",
+    "value" : "12828-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test02_xx"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75ef3d59f1679e75.json",
+  "parameterValues" : [ ]
+}

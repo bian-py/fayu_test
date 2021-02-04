@@ -1,0 +1,64 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert False\n +  where False = <bound method PageXx.pagexx_find_C of <page.page_xx.PageXx object at 0x00000202D23E45C0>>()\n +    where <bound method PageXx.pagexx_find_C of <page.page_xx.PageXx object at 0x00000202D23E45C0>> = <page.page_xx.PageXx object at 0x00000202D23E45C0>.pagexx_find_C\n +      where <page.page_xx.PageXx object at 0x00000202D23E45C0> = <script.test02_xx.TestXx object at 0x00000202D2572A90>.xx",
+      "children" : [ {
+        "name" : "test03_zmxx",
+        "uid" : "a020d8b9c3088025",
+        "parentUid" : "85ce22e03b15ba06b085833ed58e8db5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612406262711,
+          "stop" : 1612406275222,
+          "duration" : 12511
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "85ce22e03b15ba06b085833ed58e8db5"
+    }, {
+      "name" : "AssertionError: assert False\n +  where False = <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>>()\n +    where <bound method PageXx.pagexx_find_demo of <page.page_xx.PageXx object at 0x00000202D23E45C0>> = <page.page_xx.PageXx object at 0x00000202D23E45C0>.pagexx_find_demo\n +      where <page.page_xx.PageXx object at 0x00000202D23E45C0> = <script.test02_xx.TestXx object at 0x00000202D25933C8>.xx",
+      "children" : [ {
+        "name" : "test04_zmxx_error_demo",
+        "uid" : "e49c440a6df40211",
+        "parentUid" : "c119c1a6fe5d76b9377a70c2e09d8b8e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612406275323,
+          "stop" : 1612406321140,
+          "duration" : 45817
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c119c1a6fe5d76b9377a70c2e09d8b8e"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.TimeoutException: Message:",
+      "children" : [ {
+        "name" : "test02_glsh",
+        "uid" : "8cb561373ffb1ac1",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1612406354549,
+          "stop" : 1612406364782,
+          "duration" : 10233
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "31bb78a6a95ede3f78b260ed048910d8"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,24 @@
+[32mINFO    [0m admin:test02_xx.py:39 进入字母讲解视频，查看视频播放情况
+[32mINFO    [0m admin:base.py:28 正在点击元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[32mINFO    [0m admin:base.py:23 正在查找元素('xpath', '//android.view.View[@content-desc="Aa Bb Cc Dd Ee Ff Gg"]/../../../android.widget.FrameLayout[1]//android.widget.ImageView')
+[32mINFO    [0m admin:test02_xx.py:42 正在进行断言（简化处理，demo这里写死）
+[32mINFO    [0m admin:test02_xx.py:45 正在调出视频控制菜单，点击暂停按钮
+[32mINFO    [0m admin:test02_xx.py:46 进入字母讲解视频
+[32mINFO    [0m admin:base.py:28 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[32mINFO    [0m admin:base.py:28 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[32mINFO    [0m admin:base.py:28 正在点击元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/ivPlayBtn')
+[32mINFO    [0m admin:test02_xx.py:48 正在进行断言（简化处理，demo这里写死）
+[32mINFO    [0m admin:test02_xx.py:50 返回学习主页面
+[32mINFO    [0m admin:base.py:28 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[32mINFO    [0m admin:base.py:28 正在点击元素('id', 'com.izaodao.french:id/gestureMask')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/gestureMask')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/ivBack')
+[32mINFO    [0m admin:base.py:28 正在点击元素('id', 'com.izaodao.french:id/ivBack')
+[32mINFO    [0m admin:base.py:23 正在查找元素('id', 'com.izaodao.french:id/ivBack')
