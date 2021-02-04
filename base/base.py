@@ -7,7 +7,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.wait import WebDriverWait
 
 import page
-from config import BASE_PATH, cap2
+from config import BASE_PATH
 from tool.get_log import GetLogger
 
 log = GetLogger.get_log()
